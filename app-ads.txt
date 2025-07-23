@@ -3,6 +3,7 @@ google.com, pub-6757469017158573, DIRECT, f08c47fec0942fa0
 applovin.com, 5d2bdc0384e23a4d773d3d12ff7bb5dd, DIRECT
 ironsrc.com, 618077, DIRECT
 unity.com, 7312836, DIRECT, 96cabb5fbdde37a7
+mintegral.com, 57357, DIRECT
 
 # AppLovin RESELLERs
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
