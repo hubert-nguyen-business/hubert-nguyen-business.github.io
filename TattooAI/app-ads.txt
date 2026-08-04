@@ -5,6 +5,7 @@ ironsrc.com, 618077, DIRECT
 unity.com, 7312836, DIRECT, 96cabb5fbdde37a7
 mintegral.com, 57357, DIRECT
 vungle.com,68a2ebf501d90eb743dd64d5,DIRECT,c107d686becd2d77
+inmobi.com, 8f510b8b54114dec8b1fd27f4d3642db, DIRECT, 83e75a7ae333ca9d
 
 # AppLovin RESELLERs
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
@@ -895,3 +896,11 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
+
+# Inmobi RESELLERs
+rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157097, RESELLER, 5d62403b186f2ace
+conversantmedia.com, 40881, RESELLER, 03113cd04947736d
+smaato.com, 1100053415, RESELLER, 07bcf65f187117b4
+outbrain.com, 00092743fa380569f00f929c5c50dfccf8, RESELLER
